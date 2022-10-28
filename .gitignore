@@ -1,0 +1,11 @@
+*.mvn
+mvnw
+mvnw.cmd
+*/target/**
+/node_modules
+/logs
+.DS_Store
+**/logs
+pom.xml.releaseBackup
+release.properties
+pom.xml.versionsBackup
